@@ -15,7 +15,7 @@ converting all transactions that use other currencies.
         - Credits / Debits: This page contains information regarding all credit and debit transactions recorded;
         - Investments: This page contains information regarding each current investment, such as basic information, and
           currency-adjusted price history;
-        - Year: This page contains all information for the selected year, including the savings and investement rates, and a map of
+        - Year: This page contains all information for the selected year, including the savings and investment rates, and a map of
           transaction locations;
         - Month: This page contains all information for the selected month, including gauges for MoM expenditure and investment
           values.
@@ -104,7 +104,7 @@ any transactions. All transactions will need to be reentered by the user.
         - Credits / Debits: This page contains information regarding all credit and debit transactions recorded;
         - Investments: This page contains information regarding each current investment, such as basic information, and
           currency-adjusted price history;
-        - Year: This page contains all information for the selected year, including the savings and investement rates, and a map
+        - Year: This page contains all information for the selected year, including the savings and investment rates, and a map
           of transaction locations;
         - Month: This page contains all information for the selected month, including gauges for MoM expenditure and investment
           values.
