@@ -1,0 +1,398 @@
+Consultar saldos e movimentos à ordem - 01-08-2025;;;;;;;
+;;;;;;;
+Conta ;Test Account CGD;;;;;;
+Data de início ;01/01/2022;;;;;;
+Data de fim ;31/07/2025;;;;;;
+;;;;;;;
+Data mov. ;Data valor ;Descrição ;Débito ;Crédito ;Saldo contabilístico ;Saldo disponível ;Categoria 
+01/01/2022;01/01/2022;Super Club Football Club tickets;15,9;;200;200;Category
+15/01/2022;15/01/2022;BuyALL Supermarket;46,76;;153,24;153,24;Category
+18/01/2022;18/01/2022;BuyALL Supermarket;40,66;;112,58;112,58;Category
+25/01/2022;25/01/2022;You Work Here Enterprises;; 1.000,00; 1.112,58; 1.112,58;Category
+26/01/2022;26/01/2022;Al-Dente Restaurant;1,43;; 1.111,15; 1.111,15;Category
+27/01/2022;27/01/2022;Bento Box Restaurant;17,31;; 1.093,84; 1.093,84;Category
+28/01/2022;28/01/2022;Bus pass;30;; 1.063,84; 1.063,84;Category
+29/01/2022;29/01/2022;BuyALL Supermarket;26,01;; 1.037,83; 1.037,83;Category
+30/01/2022;30/01/2022;Peer-to-peer transfer;13,78;; 1.024,05; 1.024,05;Category
+02/02/2022;02/02/2022;Al-Dente Restaurant;42,81;;981,24;981,24;Category
+13/02/2022;13/02/2022;Super Club Football Club tickets;7,36;;973,88;973,88;Category
+19/02/2022;19/02/2022;Super Club Football Club tickets;26,74;;947,14;947,14;Category
+20/02/2022;20/02/2022;Al-Dente Restaurant;20,92;;926,22;926,22;Category
+20/02/2022;20/02/2022;Peer-to-peer transfer;11,69;;914,53;914,53;Category
+25/02/2022;25/02/2022;You Work Here Enterprises;; 1.000,00; 1.914,53; 1.914,53;Category
+28/02/2022;28/02/2022;Bus pass;30;; 1.884,53; 1.884,53;Category
+01/03/2022;01/03/2022;Bento Box Restaurant;28,47;; 1.856,06; 1.856,06;Category
+09/03/2022;09/03/2022;Costa Tea;0,44;; 1.855,62; 1.855,62;Category
+10/03/2022;10/03/2022;High Fantasy Bookstore;17,4;; 1.838,22; 1.838,22;Category
+11/03/2022;11/03/2022;Ubar;6,18;; 1.832,04; 1.832,04;Category
+22/03/2022;22/03/2022;Al-Dente Restaurant;2,27;; 1.829,77; 1.829,77;Category
+24/03/2022;24/03/2022;Super Club Football Club tickets;10,93;; 1.818,84; 1.818,84;Category
+25/03/2022;25/03/2022;You Work Here Enterprises;; 1.000,00; 2.818,84; 2.818,84;Category
+27/03/2022;27/03/2022;Amezon;20,93;; 2.797,91; 2.797,91;Category
+28/03/2022;28/03/2022;Bento Box Restaurant;29,86;; 2.768,05; 2.768,05;Category
+28/03/2022;28/03/2022;Bus pass;30;; 2.738,05; 2.738,05;Category
+30/03/2022;30/03/2022;Ubar;3,33;; 2.734,72; 2.734,72;Category
+31/03/2022;31/03/2022;Bento Box Restaurant;2,17;; 2.732,55; 2.732,55;Category
+12/04/2022;12/04/2022;Costa Tea;3,8;; 2.728,75; 2.728,75;Category
+15/04/2022;15/04/2022;New clothes Inc.;1,13;; 2.727,62; 2.727,62;Category
+16/04/2022;16/04/2022;Super Club Football Club tickets;2,17;; 2.725,45; 2.725,45;Category
+18/04/2022;18/04/2022;High Fantasy Bookstore;3,92;; 2.721,53; 2.721,53;Category
+18/04/2022;18/04/2022;High Fantasy Bookstore;5,05;; 2.716,48; 2.716,48;Category
+21/04/2022;21/04/2022;High Fantasy Bookstore;5,2;; 2.711,28; 2.711,28;Category
+22/04/2022;22/04/2022;Super Club Football Club tickets;27,4;; 2.683,88; 2.683,88;Category
+25/04/2022;25/04/2022;You Work Here Enterprises;; 1.000,00; 3.683,88; 3.683,88;Category
+26/04/2022;26/04/2022;BuyALL Supermarket;149,13;; 3.534,75; 3.534,75;Category
+28/04/2022;28/04/2022;Bus pass;30;; 3.504,75; 3.504,75;Category
+20/05/2022;20/05/2022;Peer-to-peer transfer;10,49;; 3.494,26; 3.494,26;Category
+23/05/2022;23/05/2022;Peer-to-peer transfer;7,64;; 3.486,62; 3.486,62;Category
+25/05/2022;25/05/2022;Al-Dente Restaurant;31,82;; 3.454,80; 3.454,80;Category
+25/05/2022;25/05/2022;You Work Here Enterprises;; 1.000,00; 4.454,80; 4.454,80;Category
+28/05/2022;28/05/2022;Bus pass;30;; 4.424,80; 4.424,80;Category
+30/05/2022;30/05/2022;High Fantasy Bookstore;14,82;; 4.409,98; 4.409,98;Category
+02/06/2022;02/06/2022;Costa Tea;6,05;; 4.403,93; 4.403,93;Category
+06/06/2022;06/06/2022;Al-Dente Restaurant;37,35;; 4.366,58; 4.366,58;Category
+09/06/2022;09/06/2022;New clothes Inc.;19,43;; 4.347,15; 4.347,15;Category
+19/06/2022;19/06/2022;High Fantasy Bookstore;9,98;; 4.337,17; 4.337,17;Category
+21/06/2022;21/06/2022;Ubar;2,11;; 4.335,06; 4.335,06;Category
+21/06/2022;21/06/2022;Super Club Football Club tickets;18,49;; 4.316,57; 4.316,57;Category
+23/06/2022;23/06/2022;Al-Dente Restaurant;7,92;; 4.308,65; 4.308,65;Category
+24/06/2022;24/06/2022;High Fantasy Bookstore;19,13;; 4.289,52; 4.289,52;Category
+25/06/2022;25/06/2022;You Work Here Enterprises;; 1.000,00; 5.289,52; 5.289,52;Category
+28/06/2022;28/06/2022;Bus pass;30;; 5.259,52; 5.259,52;Category
+05/07/2022;05/07/2022;Ubar;3,49;; 5.256,03; 5.256,03;Category
+10/07/2022;10/07/2022;Amezon;14,09;; 5.241,94; 5.241,94;Category
+11/07/2022;11/07/2022;Costa Tea;6,37;; 5.235,57; 5.235,57;Category
+21/07/2022;21/07/2022;New clothes Inc.;4,94;; 5.230,63; 5.230,63;Category
+23/07/2022;23/07/2022;Bento Box Restaurant;25,25;; 5.205,38; 5.205,38;Category
+24/07/2022;24/07/2022;High Fantasy Bookstore;15,84;; 5.189,54; 5.189,54;Category
+25/07/2022;25/07/2022;You Work Here Enterprises;; 1.000,00; 6.189,54; 6.189,54;Category
+28/07/2022;28/07/2022;Bus pass;30;; 6.159,54; 6.159,54;Category
+04/08/2022;04/08/2022;New clothes Inc.;32,21;; 6.127,33; 6.127,33;Category
+06/08/2022;06/08/2022;New clothes Inc.;17,69;; 6.109,64; 6.109,64;Category
+07/08/2022;07/08/2022;Bento Box Restaurant;25,64;; 6.084,00; 6.084,00;Category
+14/08/2022;14/08/2022;Super Club Football Club tickets;8,51;; 6.075,49; 6.075,49;Category
+23/08/2022;23/08/2022;New clothes Inc.;6,76;; 6.068,73; 6.068,73;Category
+24/08/2022;24/08/2022;Amezon;32,51;; 6.036,22; 6.036,22;Category
+24/08/2022;24/08/2022;Peer-to-peer transfer;5,04;; 6.031,18; 6.031,18;Category
+25/08/2022;25/08/2022;You Work Here Enterprises;; 1.000,00; 7.031,18; 7.031,18;Category
+28/08/2022;28/08/2022;Bus pass;30;; 7.001,18; 7.001,18;Category
+29/08/2022;29/08/2022;BuyALL Supermarket;98,14;; 6.903,04; 6.903,04;Category
+29/08/2022;29/08/2022;Costa Tea;1,06;; 6.901,98; 6.901,98;Category
+01/09/2022;01/09/2022;New clothes Inc.;34,97;; 6.867,01; 6.867,01;Category
+03/09/2022;03/09/2022;High Fantasy Bookstore;16,88;; 6.850,13; 6.850,13;Category
+07/09/2022;07/09/2022;Super Club Football Club tickets;20,66;; 6.829,47; 6.829,47;Category
+19/09/2022;19/09/2022;Ubar;9,68;; 6.819,79; 6.819,79;Category
+21/09/2022;21/09/2022;Bento Box Restaurant;19,24;; 6.800,55; 6.800,55;Category
+25/09/2022;25/09/2022;You Work Here Enterprises;; 1.000,00; 7.800,55; 7.800,55;Category
+28/09/2022;28/09/2022;Bus pass;30;; 7.770,55; 7.770,55;Category
+03/10/2022;03/10/2022;Super Club Football Club tickets;9,01;; 7.761,54; 7.761,54;Category
+03/10/2022;03/10/2022;Super Club Football Club tickets;21,97;; 7.739,57; 7.739,57;Category
+07/10/2022;07/10/2022;High Fantasy Bookstore;1,72;; 7.737,85; 7.737,85;Category
+10/10/2022;10/10/2022;High Fantasy Bookstore;10,99;; 7.726,86; 7.726,86;Category
+11/10/2022;11/10/2022;Super Club Football Club tickets;1,7;; 7.725,16; 7.725,16;Category
+24/10/2022;24/10/2022;Bento Box Restaurant;20,13;; 7.705,03; 7.705,03;Category
+25/10/2022;25/10/2022;You Work Here Enterprises;; 1.000,00; 8.705,03; 8.705,03;Category
+26/10/2022;26/10/2022;New clothes Inc.;0,77;; 8.704,26; 8.704,26;Category
+28/10/2022;28/10/2022;Bus pass;30;; 8.674,26; 8.674,26;Category
+31/10/2022;31/10/2022;Amezon;26,23;; 8.648,03; 8.648,03;Category
+07/11/2022;07/11/2022;High Fantasy Bookstore;8,01;; 8.640,02; 8.640,02;Category
+12/11/2022;12/11/2022;BuyALL Supermarket;34,47;; 8.605,55; 8.605,55;Category
+16/11/2022;16/11/2022;BuyALL Supermarket;143,29;; 8.462,26; 8.462,26;Category
+22/11/2022;22/11/2022;Ubar;1,75;; 8.460,51; 8.460,51;Category
+23/11/2022;23/11/2022;Al-Dente Restaurant;6,19;; 8.454,32; 8.454,32;Category
+25/11/2022;25/11/2022;You Work Here Enterprises;; 1.000,00; 9.454,32; 9.454,32;Category
+27/11/2022;27/11/2022;Amezon;14,29;; 9.440,03; 9.440,03;Category
+28/11/2022;28/11/2022;Super Club Football Club tickets;2,63;; 9.437,40; 9.437,40;Category
+28/11/2022;28/11/2022;Bus pass;30;; 9.407,40; 9.407,40;Category
+29/11/2022;29/11/2022;Amezon;19,48;; 9.387,92; 9.387,92;Category
+30/11/2022;30/11/2022;Ubar;8,94;; 9.378,98; 9.378,98;Category
+03/12/2022;03/12/2022;Super Club Football Club tickets;24,71;; 9.354,27; 9.354,27;Category
+06/12/2022;06/12/2022;Ubar;7,37;; 9.346,90; 9.346,90;Category
+13/12/2022;13/12/2022;Bento Box Restaurant;29,93;; 9.316,97; 9.316,97;Category
+15/12/2022;15/12/2022;Bento Box Restaurant;22,04;; 9.294,93; 9.294,93;Category
+25/12/2022;25/12/2022;You Work Here Enterprises;; 1.000,00; 10.294,93; 10.294,93;Category
+28/12/2022;28/12/2022;Bus pass;30;; 10.264,93; 10.264,93;Category
+01/01/2023;01/01/2023;Bank transfer; 3.000,00;; 7.264,93; 7.264,93;Category
+05/01/2023;05/01/2023;High Fantasy Bookstore;11,22;; 7.253,71; 7.253,71;Category
+15/01/2023;15/01/2023;Al-Dente Restaurant;32,74;; 7.220,97; 7.220,97;Category
+15/01/2023;15/01/2023;New clothes Inc.;22,91;; 7.198,06; 7.198,06;Category
+18/01/2023;18/01/2023;Ubar;2,92;; 7.195,14; 7.195,14;Category
+25/01/2023;25/01/2023;You Work Here Enterprises;; 1.350,00; 8.545,14; 8.545,14;Category
+28/01/2023;28/01/2023;Bus pass;30;; 8.515,14; 8.515,14;Category
+01/02/2023;01/02/2023;Bank transfer;200;; 8.315,14; 8.315,14;Category
+20/02/2023;20/02/2023;Super Club Football Club tickets;21,32;; 8.293,82; 8.293,82;Category
+21/02/2023;21/02/2023;Amezon;27,6;; 8.266,22; 8.266,22;Category
+21/02/2023;21/02/2023;Peer-to-peer transfer;8,62;; 8.257,60; 8.257,60;Category
+24/02/2023;24/02/2023;Bento Box Restaurant;9,87;; 8.247,73; 8.247,73;Category
+25/02/2023;25/02/2023;You Work Here Enterprises;; 1.350,00; 9.597,73; 9.597,73;Category
+28/02/2023;28/02/2023;Bus pass;30;; 9.567,73; 9.567,73;Category
+01/03/2023;01/03/2023;Bank transfer;200;; 9.367,73; 9.367,73;Category
+02/03/2023;02/03/2023;Amezon;20,53;; 9.347,20; 9.347,20;Category
+08/03/2023;08/03/2023;High Fantasy Bookstore;8,68;; 9.338,52; 9.338,52;Category
+21/03/2023;21/03/2023;Costa Tea;2,51;; 9.336,01; 9.336,01;Category
+21/03/2023;21/03/2023;Ubar;4,04;; 9.331,97; 9.331,97;Category
+21/03/2023;21/03/2023;Bento Box Restaurant;16,06;; 9.315,91; 9.315,91;Category
+25/03/2023;25/03/2023;You Work Here Enterprises;; 1.350,00; 10.665,91; 10.665,91;Category
+28/03/2023;28/03/2023;Bus pass;30;; 10.635,91; 10.635,91;Category
+30/03/2023;30/03/2023;Al-Dente Restaurant;24,97;; 10.610,94; 10.610,94;Category
+30/03/2023;30/03/2023;Bento Box Restaurant;15,93;; 10.595,01; 10.595,01;Category
+01/04/2023;01/04/2023;Bank transfer;200;; 10.395,01; 10.395,01;Category
+09/04/2023;09/04/2023;BuyALL Supermarket;78,51;; 10.316,50; 10.316,50;Category
+10/04/2023;10/04/2023;High Fantasy Bookstore;1,31;; 10.315,19; 10.315,19;Category
+12/04/2023;12/04/2023;Bento Box Restaurant;15,73;; 10.299,46; 10.299,46;Category
+17/04/2023;17/04/2023;Peer-to-peer transfer;6,49;; 10.292,97; 10.292,97;Category
+25/04/2023;25/04/2023;Amezon;12,48;; 10.280,49; 10.280,49;Category
+25/04/2023;25/04/2023;You Work Here Enterprises;; 2.500,00; 12.780,49; 12.780,49;Category
+26/04/2023;26/04/2023;BuyALL Supermarket;141,47;; 12.639,02; 12.639,02;Category
+28/04/2023;28/04/2023;Bus pass;30;; 12.609,02; 12.609,02;Category
+29/04/2023;29/04/2023;Peer-to-peer transfer;0,54;; 12.608,48; 12.608,48;Category
+30/04/2023;30/04/2023;Peer-to-peer transfer;17,04;; 12.591,44; 12.591,44;Category
+01/05/2023;01/05/2023;Bank transfer;200;; 12.391,44; 12.391,44;Category
+04/05/2023;04/05/2023;Costa Tea;6,78;; 12.384,66; 12.384,66;Category
+12/05/2023;12/05/2023;Peer-to-peer transfer;5,5;; 12.379,16; 12.379,16;Category
+13/05/2023;13/05/2023;Al-Dente Restaurant;4,06;; 12.375,10; 12.375,10;Category
+18/05/2023;18/05/2023;New clothes Inc.;21,08;; 12.354,02; 12.354,02;Category
+24/05/2023;24/05/2023;Super Club Football Club tickets;29,04;; 12.324,98; 12.324,98;Category
+25/05/2023;25/05/2023;You Work Here Enterprises;; 1.350,00; 13.674,98; 13.674,98;Category
+28/05/2023;28/05/2023;Bus pass;30;; 13.644,98; 13.644,98;Category
+01/06/2023;01/06/2023;Bank transfer;200;; 13.444,98; 13.444,98;Category
+02/06/2023;02/06/2023;Bento Box Restaurant;13,56;; 13.431,42; 13.431,42;Category
+10/06/2023;10/06/2023;High Fantasy Bookstore;18,32;; 13.413,10; 13.413,10;Category
+15/06/2023;15/06/2023;Amezon;7,5;; 13.405,60; 13.405,60;Category
+18/06/2023;18/06/2023;Bento Box Restaurant;10,29;; 13.395,31; 13.395,31;Category
+25/06/2023;25/06/2023;You Work Here Enterprises;; 1.350,00; 14.745,31; 14.745,31;Category
+26/06/2023;26/06/2023;BuyALL Supermarket;119,62;; 14.625,69; 14.625,69;Category
+28/06/2023;28/06/2023;Bus pass;30;; 14.595,69; 14.595,69;Category
+01/07/2023;01/07/2023;Bank transfer;200;; 14.395,69; 14.395,69;Category
+06/07/2023;06/07/2023;Super Club Football Club tickets;24,04;; 14.371,65; 14.371,65;Category
+17/07/2023;17/07/2023;Al-Dente Restaurant;40,98;; 14.330,67; 14.330,67;Category
+25/07/2023;25/07/2023;You Work Here Enterprises;; 1.350,00; 15.680,67; 15.680,67;Category
+28/07/2023;28/07/2023;Bus pass;30;; 15.650,67; 15.650,67;Category
+01/08/2023;01/08/2023;Bank transfer;200;; 15.450,67; 15.450,67;Category
+04/08/2023;04/08/2023;Costa Tea;2,72;; 15.447,95; 15.447,95;Category
+04/08/2023;04/08/2023;Costa Tea;5,33;; 15.442,62; 15.442,62;Category
+12/08/2023;12/08/2023;High Fantasy Bookstore;17,36;; 15.425,26; 15.425,26;Category
+13/08/2023;13/08/2023;BuyALL Supermarket;1,42;; 15.423,84; 15.423,84;Category
+21/08/2023;21/08/2023;Al-Dente Restaurant;45,5;; 15.378,34; 15.378,34;Category
+24/08/2023;24/08/2023;Bento Box Restaurant;17,25;; 15.361,09; 15.361,09;Category
+25/08/2023;25/08/2023;You Work Here Enterprises;; 1.350,00; 16.711,09; 16.711,09;Category
+26/08/2023;26/08/2023;Super Club Football Club tickets;6,56;; 16.704,53; 16.704,53;Category
+28/08/2023;28/08/2023;Bus pass;30;; 16.674,53; 16.674,53;Category
+31/08/2023;31/08/2023;Costa Tea;2,83;; 16.671,70; 16.671,70;Category
+01/09/2023;01/09/2023;Bank transfer;200;; 16.471,70; 16.471,70;Category
+07/09/2023;07/09/2023;Amezon;39,58;; 16.432,12; 16.432,12;Category
+11/09/2023;11/09/2023;Bento Box Restaurant;24,64;; 16.407,48; 16.407,48;Category
+15/09/2023;15/09/2023;Bento Box Restaurant;25,62;; 16.381,86; 16.381,86;Category
+19/09/2023;19/09/2023;Super Club Football Club tickets;0,91;; 16.380,95; 16.380,95;Category
+20/09/2023;20/09/2023;Ubar;8,13;; 16.372,82; 16.372,82;Category
+25/09/2023;25/09/2023;You Work Here Enterprises;; 1.350,00; 17.722,82; 17.722,82;Category
+26/09/2023;26/09/2023;Peer-to-peer transfer;2,37;; 17.720,45; 17.720,45;Category
+28/09/2023;28/09/2023;Super Club Football Club tickets;2,68;; 17.717,77; 17.717,77;Category
+28/09/2023;28/09/2023;Peer-to-peer transfer;6,62;; 17.711,15; 17.711,15;Category
+28/09/2023;28/09/2023;Bus pass;30;; 17.681,15; 17.681,15;Category
+01/10/2023;01/10/2023;Bank transfer;200;; 17.481,15; 17.481,15;Category
+02/10/2023;02/10/2023;Al-Dente Restaurant;13,27;; 17.467,88; 17.467,88;Category
+08/10/2023;08/10/2023;Super Club Football Club tickets;2,26;; 17.465,62; 17.465,62;Category
+08/10/2023;08/10/2023;BuyALL Supermarket;33,39;; 17.432,23; 17.432,23;Category
+10/10/2023;10/10/2023;Amezon;0,46;; 17.431,77; 17.431,77;Category
+11/10/2023;11/10/2023;New clothes Inc.;26,94;; 17.404,83; 17.404,83;Category
+22/10/2023;22/10/2023;Bento Box Restaurant;2,1;; 17.402,73; 17.402,73;Category
+24/10/2023;24/10/2023;Bento Box Restaurant;23,1;; 17.379,63; 17.379,63;Category
+25/10/2023;25/10/2023;You Work Here Enterprises;; 1.350,00; 18.729,63; 18.729,63;Category
+27/10/2023;27/10/2023;Al-Dente Restaurant;46,26;; 18.683,37; 18.683,37;Category
+28/10/2023;28/10/2023;Bus pass;30;; 18.653,37; 18.653,37;Category
+31/10/2023;31/10/2023;Al-Dente Restaurant;49,35;; 18.604,02; 18.604,02;Category
+01/11/2023;01/11/2023;Peer-to-peer transfer;0,48;; 18.603,54; 18.603,54;Category
+01/11/2023;01/11/2023;Bank transfer;200;; 18.403,54; 18.403,54;Category
+02/11/2023;02/11/2023;Costa Tea;6,98;; 18.396,56; 18.396,56;Category
+07/11/2023;07/11/2023;Super Club Football Club tickets;2,28;; 18.394,28; 18.394,28;Category
+11/11/2023;11/11/2023;Costa Tea;6,92;; 18.387,36; 18.387,36;Category
+16/11/2023;16/11/2023;New clothes Inc.;2,17;; 18.385,19; 18.385,19;Category
+25/11/2023;25/11/2023;New clothes Inc.;9,67;; 18.375,52; 18.375,52;Category
+25/11/2023;25/11/2023;You Work Here Enterprises;; 1.350,00; 19.725,52; 19.725,52;Category
+28/11/2023;28/11/2023;Bus pass;30;; 19.695,52; 19.695,52;Category
+01/12/2023;01/12/2023;Bank transfer;200;; 19.495,52; 19.495,52;Category
+17/12/2023;17/12/2023;Bento Box Restaurant;5,64;; 19.489,88; 19.489,88;Category
+25/12/2023;25/12/2023;You Work Here Enterprises;; 1.350,00; 20.839,88; 20.839,88;Category
+28/12/2023;28/12/2023;Bus pass;30;; 20.809,88; 20.809,88;Category
+01/01/2024;01/01/2024;Bank transfer;200;; 20.609,88; 20.609,88;Category
+02/01/2024;02/01/2024;Al-Dente Restaurant;14,19;; 20.595,69; 20.595,69;Category
+03/01/2024;03/01/2024;Rent;500;; 20.095,69; 20.095,69;Category
+24/01/2024;24/01/2024;Al-Dente Restaurant;11,65;; 20.084,04; 20.084,04;Category
+25/01/2024;25/01/2024;New clothes Inc.;33,7;; 20.050,34; 20.050,34;Category
+25/01/2024;25/01/2024;You Work Here Enterprises;; 1.600,00; 21.650,34; 21.650,34;Category
+27/01/2024;27/01/2024;New clothes Inc.;13,16;; 21.637,18; 21.637,18;Category
+28/01/2024;28/01/2024;Bus pass;30;; 21.607,18; 21.607,18;Category
+01/02/2024;01/02/2024;Bank transfer;200;; 21.407,18; 21.407,18;Category
+03/02/2024;03/02/2024;Rent;500;; 20.907,18; 20.907,18;Category
+25/02/2024;25/02/2024;You Work Here Enterprises;; 1.600,00; 22.507,18; 22.507,18;Category
+28/02/2024;28/02/2024;Bus pass;30;; 22.477,18; 22.477,18;Category
+01/03/2024;01/03/2024;Bank transfer;200;; 22.277,18; 22.277,18;Category
+03/03/2024;03/03/2024;High Fantasy Bookstore;12,23;; 22.264,95; 22.264,95;Category
+03/03/2024;03/03/2024;Rent;500;; 21.764,95; 21.764,95;Category
+06/03/2024;06/03/2024;Al-Dente Restaurant;47,04;; 21.717,91; 21.717,91;Category
+09/03/2024;09/03/2024;Ubar;0,34;; 21.717,57; 21.717,57;Category
+13/03/2024;13/03/2024;BuyALL Supermarket;8,76;; 21.708,81; 21.708,81;Category
+14/03/2024;14/03/2024;BuyALL Supermarket;100,83;; 21.607,98; 21.607,98;Category
+16/03/2024;16/03/2024;High Fantasy Bookstore;13,41;; 21.594,57; 21.594,57;Category
+25/03/2024;25/03/2024;Al-Dente Restaurant;35,05;; 21.559,52; 21.559,52;Category
+25/03/2024;25/03/2024;You Work Here Enterprises;; 1.600,00; 23.159,52; 23.159,52;Category
+28/03/2024;28/03/2024;Bus pass;30;; 23.129,52; 23.129,52;Category
+01/04/2024;01/04/2024;Bank transfer;200;; 22.929,52; 22.929,52;Category
+03/04/2024;03/04/2024;Rent;500;; 22.429,52; 22.429,52;Category
+07/04/2024;07/04/2024;BuyALL Supermarket;27,08;; 22.402,44; 22.402,44;Category
+12/04/2024;12/04/2024;Bento Box Restaurant;14,28;; 22.388,16; 22.388,16;Category
+13/04/2024;13/04/2024;Al-Dente Restaurant;22,75;; 22.365,41; 22.365,41;Category
+16/04/2024;16/04/2024;Super Club Football Club tickets;6,95;; 22.358,46; 22.358,46;Category
+25/04/2024;25/04/2024;You Work Here Enterprises;; 2.750,00; 25.108,46; 25.108,46;Category
+28/04/2024;28/04/2024;Bus pass;30;; 25.078,46; 25.078,46;Category
+01/05/2024;01/05/2024;Bank transfer;200;; 24.878,46; 24.878,46;Category
+03/05/2024;03/05/2024;Peer-to-peer transfer;2,5;; 24.875,96; 24.875,96;Category
+03/05/2024;03/05/2024;Rent;500;; 24.375,96; 24.375,96;Category
+04/05/2024;04/05/2024;Costa Tea;2,16;; 24.373,80; 24.373,80;Category
+20/05/2024;20/05/2024;BuyALL Supermarket;73,97;; 24.299,83; 24.299,83;Category
+25/05/2024;25/05/2024;Costa Tea;4,97;; 24.294,86; 24.294,86;Category
+25/05/2024;25/05/2024;You Work Here Enterprises;; 1.600,00; 25.894,86; 25.894,86;Category
+28/05/2024;28/05/2024;Bus pass;30;; 25.864,86; 25.864,86;Category
+29/05/2024;29/05/2024;New clothes Inc.;25,75;; 25.839,11; 25.839,11;Category
+01/06/2024;01/06/2024;Bank transfer;200;; 25.639,11; 25.639,11;Category
+03/06/2024;03/06/2024;Rent;500;; 25.139,11; 25.139,11;Category
+04/06/2024;04/06/2024;Bento Box Restaurant;10,72;; 25.128,39; 25.128,39;Category
+06/06/2024;06/06/2024;Amezon;2,6;; 25.125,79; 25.125,79;Category
+06/06/2024;06/06/2024;Costa Tea;0,7;; 25.125,09; 25.125,09;Category
+09/06/2024;09/06/2024;BuyALL Supermarket;145,13;; 24.979,96; 24.979,96;Category
+14/06/2024;14/06/2024;High Fantasy Bookstore;0,75;; 24.979,21; 24.979,21;Category
+17/06/2024;17/06/2024;Amezon;15,45;; 24.963,76; 24.963,76;Category
+19/06/2024;19/06/2024;New clothes Inc.;12,81;; 24.950,95; 24.950,95;Category
+23/06/2024;23/06/2024;Ubar;9,27;; 24.941,68; 24.941,68;Category
+25/06/2024;25/06/2024;You Work Here Enterprises;; 1.600,00; 26.541,68; 26.541,68;Category
+28/06/2024;28/06/2024;Bus pass;30;; 26.511,68; 26.511,68;Category
+29/06/2024;29/06/2024;Amezon;15,61;; 26.496,07; 26.496,07;Category
+01/07/2024;01/07/2024;Bank transfer;200;; 26.296,07; 26.296,07;Category
+03/07/2024;03/07/2024;Rent;500;; 25.796,07; 25.796,07;Category
+25/07/2024;25/07/2024;You Work Here Enterprises;; 1.600,00; 27.396,07; 27.396,07;Category
+28/07/2024;28/07/2024;Bus pass;30;; 27.366,07; 27.366,07;Category
+30/07/2024;30/07/2024;Ubar;8,39;; 27.357,68; 27.357,68;Category
+01/08/2024;01/08/2024;Bank transfer;200;; 27.157,68; 27.157,68;Category
+02/08/2024;02/08/2024;Super Club Football Club tickets;29,45;; 27.128,23; 27.128,23;Category
+03/08/2024;03/08/2024;Bento Box Restaurant;9,32;; 27.118,91; 27.118,91;Category
+03/08/2024;03/08/2024;Rent;500;; 26.618,91; 26.618,91;Category
+06/08/2024;06/08/2024;Amezon;26,91;; 26.592,00; 26.592,00;Category
+07/08/2024;07/08/2024;Bento Box Restaurant;22,36;; 26.569,64; 26.569,64;Category
+15/08/2024;15/08/2024;Peer-to-peer transfer;2,79;; 26.566,85; 26.566,85;Category
+17/08/2024;17/08/2024;High Fantasy Bookstore;4,82;; 26.562,03; 26.562,03;Category
+18/08/2024;18/08/2024;Costa Tea;1,39;; 26.560,64; 26.560,64;Category
+19/08/2024;19/08/2024;BuyALL Supermarket;95,15;; 26.465,49; 26.465,49;Category
+20/08/2024;20/08/2024;Peer-to-peer transfer;1,97;; 26.463,52; 26.463,52;Category
+25/08/2024;25/08/2024;You Work Here Enterprises;; 1.600,00; 28.063,52; 28.063,52;Category
+26/08/2024;26/08/2024;BuyALL Supermarket;36,36;; 28.027,16; 28.027,16;Category
+27/08/2024;27/08/2024;Super Club Football Club tickets;14,21;; 28.012,95; 28.012,95;Category
+28/08/2024;28/08/2024;Peer-to-peer transfer;7,97;; 28.004,98; 28.004,98;Category
+28/08/2024;28/08/2024;Bus pass;30;; 27.974,98; 27.974,98;Category
+01/09/2024;01/09/2024;Bank transfer;200;; 27.774,98; 27.774,98;Category
+03/09/2024;03/09/2024;Rent;500;; 27.274,98; 27.274,98;Category
+11/09/2024;11/09/2024;Al-Dente Restaurant;31,04;; 27.243,94; 27.243,94;Category
+13/09/2024;13/09/2024;Bento Box Restaurant;1,44;; 27.242,50; 27.242,50;Category
+16/09/2024;16/09/2024;Peer-to-peer transfer;14,17;; 27.228,33; 27.228,33;Category
+25/09/2024;25/09/2024;You Work Here Enterprises;; 1.600,00; 28.828,33; 28.828,33;Category
+27/09/2024;27/09/2024;High Fantasy Bookstore;3,34;; 28.824,99; 28.824,99;Category
+28/09/2024;28/09/2024;Bus pass;30;; 28.794,99; 28.794,99;Category
+30/09/2024;30/09/2024;Bento Box Restaurant;11,23;; 28.783,76; 28.783,76;Category
+01/10/2024;01/10/2024;Bank transfer;200;; 28.583,76; 28.583,76;Category
+03/10/2024;03/10/2024;Rent;500;; 28.083,76; 28.083,76;Category
+07/10/2024;07/10/2024;BuyALL Supermarket;128,75;; 27.955,01; 27.955,01;Category
+13/10/2024;13/10/2024;Al-Dente Restaurant;39,29;; 27.915,72; 27.915,72;Category
+19/10/2024;19/10/2024;High Fantasy Bookstore;6,94;; 27.908,78; 27.908,78;Category
+21/10/2024;21/10/2024;Costa Tea;6,15;; 27.902,63; 27.902,63;Category
+23/10/2024;23/10/2024;Al-Dente Restaurant;17,99;; 27.884,64; 27.884,64;Category
+24/10/2024;24/10/2024;Costa Tea;2,9;; 27.881,74; 27.881,74;Category
+24/10/2024;24/10/2024;Bento Box Restaurant;13,31;; 27.868,43; 27.868,43;Category
+25/10/2024;25/10/2024;You Work Here Enterprises;; 1.600,00; 29.468,43; 29.468,43;Category
+28/10/2024;28/10/2024;Bus pass;30;; 29.438,43; 29.438,43;Category
+31/10/2024;31/10/2024;Costa Tea;0,62;; 29.437,81; 29.437,81;Category
+01/11/2024;01/11/2024;Bank transfer;200;; 29.237,81; 29.237,81;Category
+03/11/2024;03/11/2024;Rent;500;; 28.737,81; 28.737,81;Category
+04/11/2024;04/11/2024;Super Club Football Club tickets;11,43;; 28.726,38; 28.726,38;Category
+06/11/2024;06/11/2024;Ubar;0,18;; 28.726,20; 28.726,20;Category
+06/11/2024;06/11/2024;BuyALL Supermarket;85,72;; 28.640,48; 28.640,48;Category
+08/11/2024;08/11/2024;Peer-to-peer transfer;4,39;; 28.636,09; 28.636,09;Category
+18/11/2024;18/11/2024;High Fantasy Bookstore;16,52;; 28.619,57; 28.619,57;Category
+18/11/2024;18/11/2024;Ubar;9,11;; 28.610,46; 28.610,46;Category
+24/11/2024;24/11/2024;Amezon;17,22;; 28.593,24; 28.593,24;Category
+25/11/2024;25/11/2024;You Work Here Enterprises;; 1.600,00; 30.193,24; 30.193,24;Category
+28/11/2024;28/11/2024;Bus pass;30;; 30.163,24; 30.163,24;Category
+01/12/2024;01/12/2024;Bank transfer;200;; 29.963,24; 29.963,24;Category
+03/12/2024;03/12/2024;Rent;500;; 29.463,24; 29.463,24;Category
+15/12/2024;15/12/2024;Amezon;38,49;; 29.424,75; 29.424,75;Category
+17/12/2024;17/12/2024;BuyALL Supermarket;35,74;; 29.389,01; 29.389,01;Category
+18/12/2024;18/12/2024;Bento Box Restaurant;10,36;; 29.378,65; 29.378,65;Category
+25/12/2024;25/12/2024;You Work Here Enterprises;; 1.600,00; 30.978,65; 30.978,65;Category
+28/12/2024;28/12/2024;Bus pass;30;; 30.948,65; 30.948,65;Category
+01/01/2025;01/01/2025;Bank transfer;200;; 30.748,65; 30.748,65;Category
+03/01/2025;03/01/2025;Rent;500;; 30.248,65; 30.248,65;Category
+04/01/2025;04/01/2025;BuyALL Supermarket;34,21;; 30.214,44; 30.214,44;Category
+05/01/2025;05/01/2025;BuyALL Supermarket;120,04;; 30.094,40; 30.094,40;Category
+19/01/2025;19/01/2025;Super Club Football Club tickets;1,59;; 30.092,81; 30.092,81;Category
+21/01/2025;21/01/2025;Bento Box Restaurant;15,21;; 30.077,60; 30.077,60;Category
+23/01/2025;23/01/2025;Amezon;3,58;; 30.074,02; 30.074,02;Category
+25/01/2025;25/01/2025;You Work Here Enterprises;; 1.900,00; 31.974,02; 31.974,02;Category
+28/01/2025;28/01/2025;Bus pass;30;; 31.944,02; 31.944,02;Category
+01/02/2025;01/02/2025;Bank transfer;200;; 31.744,02; 31.744,02;Category
+03/02/2025;03/02/2025;Rent;500;; 31.244,02; 31.244,02;Category
+05/02/2025;05/02/2025;Ubar;8,42;; 31.235,60; 31.235,60;Category
+17/02/2025;17/02/2025;Ubar;6,69;; 31.228,91; 31.228,91;Category
+17/02/2025;17/02/2025;High Fantasy Bookstore;7,4;; 31.221,51; 31.221,51;Category
+21/02/2025;21/02/2025;Super Club Football Club tickets;21,82;; 31.199,69; 31.199,69;Category
+24/02/2025;24/02/2025;Peer-to-peer transfer;3,77;; 31.195,92; 31.195,92;Category
+25/02/2025;25/02/2025;Amezon;34,73;; 31.161,19; 31.161,19;Category
+25/02/2025;25/02/2025;You Work Here Enterprises;; 1.900,00; 33.061,19; 33.061,19;Category
+28/02/2025;28/02/2025;Bus pass;30;; 33.031,19; 33.031,19;Category
+01/03/2025;01/03/2025;BuyALL Supermarket;137,84;; 32.893,35; 32.893,35;Category
+01/03/2025;01/03/2025;Bank transfer;200;; 32.693,35; 32.693,35;Category
+03/03/2025;03/03/2025;Rent;500;; 32.193,35; 32.193,35;Category
+04/03/2025;04/03/2025;Amezon;12,87;; 32.180,48; 32.180,48;Category
+07/03/2025;07/03/2025;New clothes Inc.;19,11;; 32.161,37; 32.161,37;Category
+12/03/2025;12/03/2025;High Fantasy Bookstore;15,27;; 32.146,10; 32.146,10;Category
+21/03/2025;21/03/2025;Peer-to-peer transfer;11,89;; 32.134,21; 32.134,21;Category
+23/03/2025;23/03/2025;Amezon;13,41;; 32.120,80; 32.120,80;Category
+25/03/2025;25/03/2025;You Work Here Enterprises;; 1.900,00; 34.020,80; 34.020,80;Category
+28/03/2025;28/03/2025;Bus pass;30;; 33.990,80; 33.990,80;Category
+01/04/2025;01/04/2025;Bank transfer;200;; 33.790,80; 33.790,80;Category
+03/04/2025;03/04/2025;Rent;500;; 33.290,80; 33.290,80;Category
+04/04/2025;04/04/2025;Al-Dente Restaurant;3,36;; 33.287,44; 33.287,44;Category
+09/04/2025;09/04/2025;BuyALL Supermarket;57,92;; 33.229,52; 33.229,52;Category
+09/04/2025;09/04/2025;Amezon;33,82;; 33.195,70; 33.195,70;Category
+15/04/2025;15/04/2025;Super Club Football Club tickets;17,11;; 33.178,59; 33.178,59;Category
+22/04/2025;22/04/2025;Ubar;6,51;; 33.172,08; 33.172,08;Category
+23/04/2025;23/04/2025;Bento Box Restaurant;14,79;; 33.157,29; 33.157,29;Category
+25/04/2025;25/04/2025;You Work Here Enterprises;; 3.000,00; 36.157,29; 36.157,29;Category
+28/04/2025;28/04/2025;Bus pass;30;; 36.127,29; 36.127,29;Category
+01/05/2025;01/05/2025;Bank transfer;200;; 35.927,29; 35.927,29;Category
+03/05/2025;03/05/2025;High Fantasy Bookstore;15,4;; 35.911,89; 35.911,89;Category
+03/05/2025;03/05/2025;Rent;500;; 35.411,89; 35.411,89;Category
+06/05/2025;06/05/2025;Al-Dente Restaurant;11,78;; 35.400,11; 35.400,11;Category
+07/05/2025;07/05/2025;Super Club Football Club tickets;8,48;; 35.391,63; 35.391,63;Category
+15/05/2025;15/05/2025;BuyALL Supermarket;55,33;; 35.336,30; 35.336,30;Category
+16/05/2025;16/05/2025;Super Club Football Club tickets;6,17;; 35.330,13; 35.330,13;Category
+18/05/2025;18/05/2025;Peer-to-peer transfer;4,01;; 35.326,12; 35.326,12;Category
+25/05/2025;25/05/2025;You Work Here Enterprises;; 1.900,00; 37.226,12; 37.226,12;Category
+28/05/2025;28/05/2025;Bus pass;30;; 37.196,12; 37.196,12;Category
+01/06/2025;01/06/2025;Bank transfer;200;; 36.996,12; 36.996,12;Category
+03/06/2025;03/06/2025;Rent;500;; 36.496,12; 36.496,12;Category
+04/06/2025;04/06/2025;Peer-to-peer transfer;6,32;; 36.489,80; 36.489,80;Category
+05/06/2025;05/06/2025;Super Club Football Club tickets;2,87;; 36.486,93; 36.486,93;Category
+06/06/2025;06/06/2025;BuyALL Supermarket;85,17;; 36.401,76; 36.401,76;Category
+07/06/2025;07/06/2025;Al-Dente Restaurant;43,46;; 36.358,30; 36.358,30;Category
+20/06/2025;20/06/2025;Ubar;0,33;; 36.357,97; 36.357,97;Category
+22/06/2025;22/06/2025;Amezon;5,89;; 36.352,08; 36.352,08;Category
+25/06/2025;25/06/2025;You Work Here Enterprises;; 1.900,00; 38.252,08; 38.252,08;Category
+28/06/2025;28/06/2025;Bus pass;30;; 38.222,08; 38.222,08;Category
+01/07/2025;01/07/2025;Bank transfer;200;;38.022,08;38.022,08;Category
+03/07/2025;03/07/2025;Rent;500;;37.522,08;37.522,08;Category
+04/07/2025;04/07/2025;Bank transfer;3000;;34.522,08;34.522,08;Category
+06/07/2025;06/07/2025;BuyALL Supermarket;102,85;;34.419,23;34.419,23;Category
+06/07/2025;06/07/2025;Bento Box Restaurant;23,78;;34.395,45;34.395,45;Category
+12/07/2025;12/07/2025;Ubar;4,67;;34.390,78;34.390,78;Category
+19/07/2025;19/07/2025;Amezon;34,98;;34.355,80;34.355,80;Category
+25/07/2025;25/07/2025;You Work Here Enterprises;; 1.900,00;36.255,80;36.255,80;Category
+28/07/2025;28/07/2025;Bus pass;30;;36.225,80;36.225,80;Category
