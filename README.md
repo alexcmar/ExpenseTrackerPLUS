@@ -5,8 +5,8 @@ Description:
     This program allows for an accurate recording of all credit and debit transactions for multiple accounts as well as investment
 tracking, providing multiple summarizing key insights of a person's financial situation simply by using the transaction files
 provided by one of the supported banks/exchanges. Currently this program supports the following banks/exchanges: Caixa Geral de
-Depósitos (CGD), Activobank, Wise, XTB, and Binance. This program also allows for various currencies to be used as a baseline,
-converting all transactions that use other currencies.
+Depósitos (CGD), Activobank, Wise, Revolut, XTB, Trading 212, Binance. This program also allows for various currencies to be used
+as a baseline, converting all transactions that use other currencies.
     The dashboard provided includes the following 7 report pages:
         - Overview: This page contains total net worth values, broadly split into 2 categories: Accounts containing fiat currency
           and open portfolio positions;
